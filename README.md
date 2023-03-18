@@ -201,7 +201,7 @@ if(key){
 </center>
   <b:section class='main' id='main' showaddelement='yes'/>
 
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 
   </body>
 </html>
